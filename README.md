@@ -2,6 +2,8 @@
 
 This Python script measures the latency of the top 5 popular DNS servers by sending ICMP ping requests and sorts them in ascending order of latency.
 
+![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moksh45/dns-latency-checker&title=Visitors)
+
 ## Features
 - Pings top DNS servers like Google, Cloudflare, OpenDNS, Quad9, and Comodo.
 - Measures the average latency of each DNS server.
