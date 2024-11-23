@@ -49,4 +49,6 @@ This project is licensed under the MIT License.
 
 Let me know if you need help with any of the steps!
 
-![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moksh45/dns-latency-checker&title=Visitors)
+![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moksh45/dns-latency-checker&title=Visitor&count_bg=1&edge_flat=false)
+
+
