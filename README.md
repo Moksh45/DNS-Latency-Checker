@@ -14,7 +14,7 @@ This Python script measures the latency of the top 5 popular DNS servers by send
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dns-latency-checker.git
+   git clone https://github.com/moksh45/dns-latency-checker.git
    cd dns-latency-checker
    ```
 
